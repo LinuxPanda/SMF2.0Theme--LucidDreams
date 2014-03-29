@@ -1,15 +1,15 @@
 Lucid Dreams
 ============
 
-> This is a "theme package" for Simple Machines Forum 2.0.x
+![Blue_Post](http://custom.simplemachines.org/themes/index.php?action=download;lemma=2755;id=17105;image=thumb)
+![Blue_Home](http://custom.simplemachines.org/themes/index.php?action=download;lemma=2755;id=17103;image=thumb)
+![Orange_Post](http://custom.simplemachines.org/themes/index.php?action=download;lemma=2755;id=17111;image=thumb)
+![Orange_Home](http://custom.simplemachines.org/themes/index.php?action=download;lemma=2755;id=17112;image=thumb)
+![Lavender_Post](http://custom.simplemachines.org/themes/index.php?action=download;lemma=2755;id=17109;image=thumb)
+![Lavender_Home](http://custom.simplemachines.org/themes/index.php?action=download;lemma=2755;id=17110;image=thumb)
+![LightBlue_Home](http://custom.simplemachines.org/themes/index.php?action=download;lemma=2755;id=17108;image=thumb)
 
-![Post_Blue](http://custom.simplemachines.org/themes/index.php?action=download;lemma=2755;id=17105;image=thumb)
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+> This is a "theme package" for Simple Machines Forum 2.0.x
 
 Full resolution screenshots & the theme package are available in SMF theme site. Kindly check this link, http://custom.simplemachines.org/themes/index.php?lemma=2755.
 
