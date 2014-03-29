@@ -4,6 +4,12 @@ Lucid Dreams
 > This is a "theme package" for Simple Machines Forum 2.0.x
 
 ![Post_Blue](http://custom.simplemachines.org/themes/index.php?action=download;lemma=2755;id=17105;image=thumb)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 Full resolution screenshots & the theme package are available in SMF theme site. Kindly check this link, http://custom.simplemachines.org/themes/index.php?lemma=2755.
 
