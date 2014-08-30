@@ -27,7 +27,7 @@ $txt['user_new_replies_desc'] = 'Show new replies to your posts';
 $txt['user_recent_posts_desc'] = 'Show recent posts';
 $txt['user_unread_posts_desc'] = 'Show unread posts since last visit';
 
-$txt['theme_desc'] = '<a href="http://linuxpanda.wordpress.com/" title="" target="_blank">Lucid Dreams - Theme by LinuxPanda</a>';
+$txt['theme_desc'] = '<a href="https://github.com/LinuxPanda/SMF2.0Theme--LucidDreams" title="" target="_blank">Lucid Dreams - Theme by LinuxPanda</a>';
 $txt['rights_reserved'] = 'All Rights Reserved';
 
 $txt['previous_next_back'] = '&larr; Previous Thread';
